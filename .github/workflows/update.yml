@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 매일 자정 (UTC) 실행
+    - cron: '0 8 * * *'  # 매일 오후 5시 KST (UTC 기준 오전 8시)
   workflow_dispatch:
 
 jobs:
