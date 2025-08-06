@@ -1,8 +1,8 @@
-# 📰 최신 뉴스 - IT
-업데이트: 2025-08-06 02:07:33
+# 📰 최신 뉴스 - 인공지능 OR 클라우드 OR 정보기술 or AI or 신기술
+업데이트: 2025-08-06 02:11:52
 
-- [송형곤 전남도의원, ‘2026여수세계섬박람회 성공 기원 릴레이 챌린지’...](http://www.breaknews.com/1138404)
-- [합천군, 가야고분군 특별사진전 ‘동행(同行)’개최](http://www.breaknews.com/1138403)
-- [[부고] 박성규(마이데일리 산업IT 기자)씨 외조모상](http://www.beyondpost.co.kr/view.php?ud=20250806110435560918ef25b590_30)
-- [롯데에너지머티리얼즈, 매출액 2049억-영업 적자 311억 기록](https://www.todayenergy.kr/news/articleView.html?idxno=287047)
-- [머크, K-Display서 디스플레이·광전자 미래 기술 선보인다](https://www.koreaittimes.com/news/articleView.html?idxno=144295)
+- [시흥도시공사, AI기반 공공건물 안전관리 방안 국회 세미나 발표](http://www.breaknews.com/1104012)
+- [&quot;보안 유니콘 만들자&quot;···제로트러스트 52억 등 100억 투입](https://n.news.naver.com/mnews/article/092/0002366612?sid=105)
+- [전남정보문화산업진흥원, 디지털 혁신 인재양성을 위한 AI 교육 운영](https://www.gamechosun.co.kr/webzine/article/view.php?no=212452)
+- [[ET시론]MS 클라우드 장애가 던진 화두](https://n.news.naver.com/mnews/article/030/0003232968?sid=105)
+- [[K-엔지니어링 견인한다]창립 50주년-한국엔지니어링협회](http://www.ikld.kr/news/articleView.html?idxno=296869)
